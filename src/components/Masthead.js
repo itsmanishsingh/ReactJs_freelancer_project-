@@ -10,7 +10,7 @@ function Masthead(){
                 <img className="masthead-avatar mb-5" src= {diamond} alt="..." />
                 {/* <img className="masthead-avatar mb-5" src="../assets/img/avataaars.svg" alt="..." /> */}
                 {/* <!-- Masthead Heading--> */}
-                <h1 className="masthead-heading text-uppercase mb-0">Start Bootstrap</h1>
+                <h1 className="masthead-heading text-uppercase mb-0">Welcome to my site</h1>
                 {/* <!-- Icon Divider--> */}
                 <div className="divider-custom divider-light">
                     <div className="divider-custom-line"></div>
