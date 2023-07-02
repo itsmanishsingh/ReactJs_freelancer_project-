@@ -9,4 +9,4 @@ Technology Used
 ### `ReactJs` 
 ### `Bootstrap`   
 
-# Check the live website [here](https://tictactoe-reactjs-js.netlify.app/ "Tic-Tac-Toe")
+# Check the live website [here](https://freelancer-reactjs.netlify.app/ "Freelancer-ReactJs")
